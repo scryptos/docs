@@ -1,4 +1,4 @@
-CTFチームPlaid Parliament of Pwningによる"suggestions-for-running-a-ctf"という資料を和訳したものです。誤訳・変な表現・技術的な齟齬等ありましたらPRや[@mt_caret](https://twitter.com/mt_caret)等の[scryptosのメンバー](https://twitter.com/_193s/lists/scryptos)にリプを飛ばす等してください。
+CTFチームPlaid Parliament of Pwningによる["suggestions-for-running-a-ctf"](https://github.com/pwning/docs/blob/master/suggestions-for-running-a-ctf.markdown)という資料を和訳したものです。誤訳・変な表現・技術的な齟齬等ありましたらPRや[@mt_caret](https://twitter.com/mt_caret)等の[scryptosのメンバー](https://twitter.com/_193s/lists/scryptos)にリプを飛ばす等してください。
 
 # はじめに
 
